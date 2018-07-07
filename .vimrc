@@ -1,6 +1,7 @@
 " Setting some decent VIM settings for programming uses
 set number                      " set auto-line numbers
 set ai                          " set auto-indenting on for programming
+set smartindent                 
 set showmatch                   " automatically show matching brackets. works like it does in bbedit.
 set vb                          " turn on the "visual bell" - which is much quieter than the "audio blink"
 set ruler                       " show the cursor position all the time
